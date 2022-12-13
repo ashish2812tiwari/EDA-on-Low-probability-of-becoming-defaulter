@@ -1,7 +1,7 @@
 # EDA-on-Low-probability-of-becoming-defaulter
 Exploratory Data Analysis on low probability of becoming defaulter in bank ,\
 Python lib used :\
-    -- numpy\
+    - numpy\
     - pandas\
     - matplotlib\
     - seaborn\
