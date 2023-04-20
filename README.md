@@ -4,8 +4,8 @@ Exploratory Data Analysis on low probability of becoming defaulter in bank .
 
 Project Objective: EDA on Low probability of becoming defaulter in bank.
 
-•	Finding the customer who will leave.
-•	How old they are and how their transaction has changed over period.
+•	Finding the customer who will leave.\
+•	How old they are and how their transaction has changed over period.\
 •	The income range and the demographic group most likely to default.
 
 
